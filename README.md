@@ -1,4 +1,4 @@
-This project is just the result of following these instructions: https://microzig.tech/docs/getting-started/
+This project is just the result of following these instructions: https://microzig.tech/docs/getting-started/ as the intention is just to grab stuff from here to copy onto other projects
 
 Steps:
 mkdir using-microzig
